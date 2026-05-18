@@ -33,7 +33,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-[Cc]ontent/
 [Rr]esult/
 msbuild.log
 msbuild.err
